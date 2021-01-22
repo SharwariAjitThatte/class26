@@ -46,6 +46,8 @@ function draw(){
     console.log(box2.body.angle);
     box1.display();
     box2.display();
+
+    platform.display();
     ground.display();
     pig1.display();
     log1.display();
